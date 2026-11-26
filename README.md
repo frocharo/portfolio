@@ -1,4 +1,4 @@
-| [Bio](https://frocharo.github.io/portfolio/) | [Developments](https://frocharo.github.io/portfolio/portfolio.html) | [Publications](https://frocharo.github.io/portfolio/publications.html) | [Spanish]Version(https://frocharo.github.io/portafolio/) |
+| [Bio](https://frocharo.github.io/portfolio/) | [Developments](https://frocharo.github.io/portfolio/portfolio.html) | [Publications](https://frocharo.github.io/portfolio/publications.html) | [SpanishVersion](https://frocharo.github.io/portafolio/) |
 
 # Fernando Rocha Rosario
 
