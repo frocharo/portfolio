@@ -1,4 +1,4 @@
-| [Bio](https://frocharo.github.io/portfolio/) | [Portfolio](https://frocharo.github.io/portfolio/portfolio.html) | [Publications](https://frocharo.github.io/portfolio/publications.html) |
+| [Bio](https://frocharo.github.io/portfolio/) | [Developments](https://frocharo.github.io/portfolio/portfolio.html) | [Publications](https://frocharo.github.io/portfolio/publications.html) |
 
 <h1>Publications</h1>
 
