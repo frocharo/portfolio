@@ -1,4 +1,4 @@
-| [Bio](https://frocharo.github.io/portafolio/) | [Portfolio](https://frocharo.github.io/portafolio/proyectos.html) | [Publications](https://frocharo.github.io/portafolio/publicaciones.html) |
+| [Bio](https://frocharo.github.io/portfolio/) | [Portfolio](https://frocharo.github.io/portfolio/portfolio.html) | [Publications](https://frocharo.github.io/portfolio/publications.html) |
 
 # Fernando Rocha Rosario
 
@@ -62,5 +62,5 @@
   </a>
   </div>
 
-## Experiencia  
+## Experience  
 
